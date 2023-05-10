@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MainAppHunar</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="onboarding_text_1">First slider</string>
+    <string name="onboarding_text_2">Second slider</string>
+    <string name="onboarding_text_3">Third slider</string>
+    <string name="search">Search</string>
+</resources>
